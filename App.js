@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import ApiComponent from "./component/ApiComponent";
+import { useState } from 'react';
 
 export default function App() {
   return (
